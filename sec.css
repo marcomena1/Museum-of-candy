@@ -48,3 +48,12 @@
      margin-top: 100px;
 
  }
+
+ .fade-in {
+     opacity: 1;
+     transition: opacity 1s ease-in-out;
+ }
+
+ #heading {
+     opacity: 0;
+ }
